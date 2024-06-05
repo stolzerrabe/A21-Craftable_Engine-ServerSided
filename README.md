@@ -8,6 +8,8 @@ I don't know if EAC needs to be turned off, but I always play without EAC due to
 
 ## Installation
 
-Unzip the Content to your Server "[ ..7 Days To Die Server Path.. ]\Mods" Folder
+Unzip the Content to your Server `[ ..7 Days To Die Server Path.. ]\Mods` Folder
+or in Singleplayer `%APPDATA%\7DaysToDie\Mods`
+
 
 ![Motor](https://razrnet.de/serverthings/motor.png)
